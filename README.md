@@ -1,2 +1,1 @@
-# playground
 git공부를 위한 오픈 소스 관리 저장소
